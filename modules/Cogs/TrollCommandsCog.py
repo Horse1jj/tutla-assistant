@@ -87,7 +87,9 @@ facts = [
     "The longest hiccuping spree lasted 68 years.",
     "The shortest commercial flight in the world is in Scotland.",
     "The longest musical performance lasted 639 years.",
-    "The world's largest grand piano was built by a 15-year-old."
+    "The world's largest grand piano was built by a 15-year-old.",
+    "The oldest piece of chewing gum is over 9,000 years old.",
+    "The world's largest snowflake on record was 15 inches wide."
 ]
 
 url = "https://thepleasantconversation.com/shower-thoughts/"
